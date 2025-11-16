@@ -24,5 +24,3 @@
 
 ### 📫 Как со мной связаться:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lensuperhero@gmail.com)
-
-⭐ *Всегда открыт к новым вызовам и возможностям для роста!*
